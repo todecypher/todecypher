@@ -1,5 +1,7 @@
 ### Hi, I'm Satyajit Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## Little About Myself👽
+- :computer: **I'm currently Working in** Barclays
+- :luggage: **Past Experience** - TIAA intern 
 - 🌱 **I’m currently learning** - Cassandra, Golang
 - 💬 **Language** - C, C++, JAVA, Python, JS, Scala
 - 🥅 **FrameWork & Technology** - Apache Spark, AWS Lambda, S3, AWS RDS, CloudFormation, DynamoDB, SpringBoot, Jupyter Notebook, MySQL, MongoDB, Git, Keras
