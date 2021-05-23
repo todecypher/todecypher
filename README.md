@@ -30,5 +30,5 @@
 [Facebook]: https://www.facebook.com/devilsatya88
 [Instagram]: https://www.instagram.com/decy.16/
 [linkedin]: https://www.linkedin.com/in/todecypher/
-[StopStalk]: https://www.stopstalk.com/user/profile/todecypher
+[StopStalk]: https://www.stopstalk.com/user/profile/decy
 [Resume]: https://drive.google.com/file/d/1HT_8VsvmFCZdUkIW9mbYrDEwifylkKZu/view?usp=sharing
