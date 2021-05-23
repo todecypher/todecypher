@@ -6,7 +6,7 @@
 - 💬 **Language** - C, C++, JAVA, Python, JS, Scala
 - 🥅 **FrameWork & Technology** - Apache Spark, AWS Lambda, S3, AWS RDS, CloudFormation, DynamoDB, SpringBoot, Jupyter Notebook, MySQL, MongoDB, Git, Keras
 - ⚡ **Hobbies** - Computer Gaming
-- 📕 **Curriculum Subjects** - DBMS, OS, SEPM, Theory of Computation, HCI, FDS, PSOOP, COA, DSF, CNT, ML
+- 📕 **Curriculum Subjects** - DBMS, OS, SEPM, TOC, HCI, FDS, PSOOP, COA, DSF, CNT, ML
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=todecypher&label=Profile%20views&color=0e75b6&style=flat" alt="todecypher" /> </p>
